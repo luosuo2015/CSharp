@@ -1,0 +1,2 @@
+there are an array and a number A;
+You need find the positions of two numbers in arry; the sum of two number is equal to A.
